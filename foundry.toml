@@ -1,0 +1,6 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+# Synthetix oracle exploit — block before June 2019 incident
+fork_block_number = 8023563
